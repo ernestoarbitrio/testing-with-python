@@ -1,0 +1,5 @@
+*.pyc
+.pytest_cache
+.hypothesis
+Pipfile
+.DS_Store
